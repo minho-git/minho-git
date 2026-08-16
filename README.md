@@ -118,15 +118,7 @@ Go 방문 카운터 앱 하나를 15단계에 걸쳐 고도화하는 실습 시�
 
 <br>
 
-## 🧗 Problem Solving
 
-<div align="center">
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsgh1552)](https://solved.ac/profile/alsgh1552)
-
-</div>
-
-<br>
 
 ## 📫 Contact
 
