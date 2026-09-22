@@ -1,6 +1,6 @@
 ## Ondo — 동대문 도매·소매 B2B 플랫폼
 
-> SW마에스트로 부산 17기 · [ondo-commerce/ondo-api](https://github.com/ondo-commerce/ondo-api)
+> SW마에스트로 부산 17기 · [저장소](https://github.com/minho-git/ondo-api)
 
 서버 둘 · DB 둘 구조. 백엔드 2인 중 **정산·집계·주문 연동** 담당.
 
