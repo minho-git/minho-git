@@ -1,26 +1,6 @@
-# 김민호
-
-백엔드 개발자입니다. 기능을 새로 붙이는 일보다 **이미 돌아가는 것이 언제 어떻게 무너지는지 재보고 막는 일**을 합니다.
-
-- **SW마에스트로 부산 17기** — B2B 플랫폼 `Ondo` 백엔드
-- **크래프톤 정글** — C로 OS·동적 메모리 할당기·웹 프록시 서버를 밑바닥부터 구현
-- 정보처리기사 · SQLD
-
-<br>
-
-## Stack
-
-`Java 21` `Spring Boot` `Python` `FastAPI` `C`
-
-`PostgreSQL` `MySQL` `Kafka` `Spark` `Airflow`
-
-`Docker` `Kubernetes` `AWS` `Terraform`
-
-<br>
-
 ## Ondo — 동대문 도매·소매 B2B 플랫폼
 
-> 도매 재고관리(POS)와 소매 발주를 하나로 잇는 플랫폼 · [ondo-commerce/ondo-api](https://github.com/ondo-commerce/ondo-api)
+> 도매 재고관리(POS)와 소매 발주를 하나로 잇는 플랫폼 · SW마에스트로 부산 17기 · [ondo-commerce/ondo-api](https://github.com/ondo-commerce/ondo-api)
 
 도매 API와 소매 API가 **서버 둘 · DB 둘**로 나뉘어 있어 한 트랜잭션으로 묶을 수 없는 구조입니다.
 백엔드 2인 중 정산·집계·주문 연동을 맡았습니다.
@@ -65,10 +45,3 @@ PostgreSQL·MySQL·MongoDB·S3·REST API 등 다중 소스에서 CDC 실시간 �
 - Helm 차트로 EKS 배포 구성
 
 `FastAPI` `Spark` `Kafka` `Airflow` `Trino` `React` `Kubernetes` `Helm`
-
-<br>
-
-## Contact
-
-[![GitHub](https://img.shields.io/badge/minho--git-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/minho-git)
-[![Solved.ac](https://img.shields.io/badge/solved.ac-0093FF?style=flat-square&logo=leetcode&logoColor=white)](https://solved.ac/profile/alsgh1552)
